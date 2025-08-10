@@ -1,0 +1,11 @@
+﻿# sensíveis
+.env
+# node
+node_modules/
+# logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# SO
+.DS_Store
+Thumbs.db
